@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JackL\\Desktop\\HBO5\\Semester_2\\WBA Programmeren 3\\Les2\\oefening-les-1\\les-oefening-1\\les-oefening-1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JackL\\Desktop\\HBO5\\Semester_2\\WBA Programmeren 3\\Les2\\oefening-les-1\\les-oefening-1\\les-oefening-1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JackL\\Desktop\\HBO5\\Semester_2\\WBA Programmeren 3\\Les2\\oefening-les-1\\les-oefening-1\\les-oefening-1.csproj",
+        "projectName": "les-oefening-1",
+        "projectPath": "C:\\Users\\JackL\\Desktop\\HBO5\\Semester_2\\WBA Programmeren 3\\Les2\\oefening-les-1\\les-oefening-1\\les-oefening-1.csproj",
+        "packagesPath": "C:\\Users\\JackL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JackL\\Desktop\\HBO5\\Semester_2\\WBA Programmeren 3\\Les2\\oefening-les-1\\les-oefening-1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JackL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
